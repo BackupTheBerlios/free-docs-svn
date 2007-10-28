@@ -1,0 +1,17 @@
+Makefile
+--------
+
+Trouver un moyen de retrouver le numéro de version à partir des sources
+latex et l'ajouter au titre du pdf, pour la tâche 'release'. Ce n'est
+pas 'critique', mais ça permettra de faire des 'release' propre.
+
+Latex compilation troubles:
+---------------------------
+
+Couverture : ajouter logo de l'ESME ( l'ordi, avec un pingouin :) )
+
+Autre:
+------
+
+Il serait intéressant de créer un "subset" du poly à partir des annexes, un
+guide 'vi' et 'emacs'.
